@@ -1,9 +1,9 @@
 # Spec Mode Skill
 
-[!\[GitHub stars\](https://img.shields.io/github/stars/yourusername/spec-mode-skill?style=social null)](https://github.com/yourusername/spec-mode-skill/stargazers)
-[!\[GitHub forks\](https://img.shields.io/github/forks/yourusername/spec-mode-skill?style=social null)](https://github.com/yourusername/spec-mode-skill/network/members)
+[!\[GitHub stars\](https://img.shields.io/github/stars/jones-187/spec-mode-skill?style=social null)](https://github.com/jones-187/spec-mode-skill/stargazers)
+[!\[GitHub forks\](https://img.shields.io/github/forks/jones-187/spec-mode-skill?style=social null)](https://github.com/jones-187/spec-mode-skill/network/members)
 [!\[License\](https://img.shields.io/badge/license-MIT-blue.svg null)](LICENSE)
-[!\[Skill Version\](https://img.shields.io/badge/version-1.0.0-green.svg null)](https://github.com/yourusername/spec-mode-skill)
+[!\[Skill Version\](https://img.shields.io/badge/version-1.0.0-green.svg null)](https://github.com/jones-187/spec-mode-skill)
 
 驱动 AI 以 spec 为目标、checklist 为导线，完成完整的需求开发流程。
 
